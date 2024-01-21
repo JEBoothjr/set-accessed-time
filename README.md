@@ -1,4 +1,4 @@
-# Obsidian Set Opened Date - MacOS
+# Obsidian Set Accessed Time - MacOS
 
 When using Obsidian on MacOS, the "date last opened" is not updated. This is useful for tracking notes that haven't been opened in a while and may need to be archived.
 
