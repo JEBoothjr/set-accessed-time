@@ -1,0 +1,12 @@
+{
+	"id": "set-accessed-time",
+	"name": "Set Accessed Time",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Set the accessed time on a file.",
+	"author": "JEBoothjr",
+	"authorUrl": "https://github.com/JEBoothjr",
+	"fundingUrl": "https://ko-fi.com/jeboothjr",
+  "helpUrl": "https://github.com/JEBoothjr/last-viewed-date",
+	"isDesktopOnly": false
+}
