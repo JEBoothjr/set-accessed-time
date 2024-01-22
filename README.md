@@ -27,7 +27,6 @@ ChildProcess.exec(COMMAND, BASE_PATH, (err, stdout, stderr) => {
 	let lines = stdout.toString().split('\n');
 	let result = lines.map((line) => {
 		if(!line.length) return;
-		//return `[[${line.replace(`${BASE_PATH}/`, '')}]]`;
 		return `${line.replace(`${BASE_PATH}/`, '')}`;
 	})
 	result = result.join('\n');
